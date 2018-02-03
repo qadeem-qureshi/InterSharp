@@ -1,0 +1,8 @@
+D:\InterSharp\InterSharpManaged\bin\Release\InterSharpManaged.dll
+D:\InterSharp\InterSharpManaged\bin\Release\InterSharpManaged.pdb
+D:\InterSharp\InterSharpManaged\bin\Release\InterSharpWrapper.dll
+D:\InterSharp\InterSharpManaged\bin\Release\InterSharpWrapper.pdb
+D:\InterSharp\InterSharpManaged\obj\Release\InterSharpManaged.csprojResolveAssemblyReference.cache
+D:\InterSharp\InterSharpManaged\obj\Release\InterSharpManaged.csproj.CoreCompileInputs.cache
+D:\InterSharp\InterSharpManaged\obj\Release\InterSharpManaged.dll
+D:\InterSharp\InterSharpManaged\obj\Release\InterSharpManaged.pdb
