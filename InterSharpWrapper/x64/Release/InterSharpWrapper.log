@@ -1,7 +1,0 @@
-﻿  Stdafx.cpp
-  AssemblyInfo.cpp
-  SQF.cpp
-  Generating Code...
-  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
-     Creating library D:\InterSharp\x64\Release\InterSharpWrapper.lib and object D:\InterSharp\x64\Release\InterSharpWrapper.exp
-  InterSharpWrapper.vcxproj -> D:\InterSharp\x64\Release\InterSharpWrapper.dll

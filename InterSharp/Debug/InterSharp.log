@@ -1,5 +1,0 @@
-﻿  stdafx.cpp
-  InterSharp.cpp
-  dllmain.cpp
-  Generating Code...
-LINK : fatal error LNK1104: cannot open file 'intercept_client.lib'

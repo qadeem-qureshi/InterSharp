@@ -1,9 +1,0 @@
-﻿  stdafx.cpp
-  dllmain.cpp
-  InterSharp.cpp
-  SQF.cpp
-     Creating library D:\InterSharp\x64\Release\InterSharp_x64.lib and object D:\InterSharp\x64\Release\InterSharp_x64.exp
-  Generating code
-  All 163 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  InterSharp.vcxproj -> D:\InterSharp\x64\Release\InterSharp_x64.dll
