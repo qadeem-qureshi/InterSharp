@@ -1,5 +1,5 @@
 # InterSharp
-Intercept C# support
+[Intercept](https://github.com/intercept/intercept) C# support
 
 # Usage
 After compiling the DLL's for Wrapper, Managed, and the main dll place the InterSharp_x64.dll in intercept folder. Place the other two DLL's in the main arma director.
@@ -10,7 +10,7 @@ Basically look at the sample SQF time command that I have ported. I believe all 
 # Type wrapping
 TODO
 
-#How it works and why this method
+# How it works and why this method
 After failed attempts on hosting CLR I have decided to just go along with creating an exported function from C# and calling it from C++ and wrapping native methods in order to get 2 way communication. The other option is IPC which I found too slow. This method works the best.
 
 # ToDo
